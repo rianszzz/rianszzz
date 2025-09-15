@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World! It's Rian here 👋
+
+![Rian](mg/Rian.jpg)
 
 <!--
 **rianszzz/rianszzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **Website Developing & Machine Learning**
+
+- 🌱 I’m currently learning *numPy, Javascript, ReactJS*
+
+- 🤔 I’m looking for help with **Javascript Experts**
