@@ -15,3 +15,19 @@ Hi, I'm Mochamad Triandra Andantyo<br><br>Informatics student at Gunadarma Unive
 ---
 [![](https://komarev.com/ghpvc/?username=rianszzz&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🕹️ Pac-Man Eats My Contributions
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/rianszzz/rianszzz/output/github-contribution-grid-pacman-dark.gif"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/rianszzz/rianszzz/output/github-contribution-grid-pacman.gif"
+  />
+  <img
+    alt="Pac-Man eating contributions"
+    src="https://raw.githubusercontent.com/rianszzz/rianszzz/output/github-contribution-grid-pacman.gif"
+  />
+</picture>
