@@ -15,19 +15,32 @@ Hi, I'm Mochamad Triandra Andantyo<br><br>Informatics student at Gunadarma Unive
 ---
 [![](https://komarev.com/ghpvc/?username=rianszzz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🕹️ Pac-Man Eats My Contributions
+## My Contribution Graph
 
+<!-- Pac-Man -->
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/rianszzz/rianszzz/output/github-contribution-grid-pacman-dark.gif"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/rianszzz/rianszzz/output/github-contribution-grid-pacman.gif"
-  />
-  <img
-    alt="Pac-Man eating contributions"
-    src="https://raw.githubusercontent.com/rianszzz/rianszzz/output/github-contribution-grid-pacman.gif"
-  />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+</picture>
+
+<!-- Breakout -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/breakout-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/breakout-contribution-graph.svg">
+    <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/breakout-contribution-graph.svg">
+</picture>
+
+<!-- Galaga -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/galaga-contribution-graph.svg">
+    <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/galaga-contribution-graph.svg">
+</picture>
+
+<!-- Puzzle Bobble -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/puzzle-bobble-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/puzzle-bobble-contribution-graph.svg">
+    <img alt="puzzle bobble contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/puzzle-bobble-contribution-graph.svg">
 </picture>
