@@ -45,4 +45,3 @@ Hi, I'm Mochamad Triandra Andantyo<br><br>Informatics student at Gunadarma Unive
     <img alt="puzzle bobble contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/puzzle-bobble-contribution-graph.svg">
 </picture>
 
-<script src="https://cdn.jsdelivr.net/npm/pacman-contribution-graph/dist/pacman-contribution-graph.min.js"></script>
